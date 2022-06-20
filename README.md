@@ -1,4 +1,4 @@
-ESP32
+My ESP32 Projects
 -------
 
 A feature-rich MCU with integrated Wi-Fi and
